@@ -94,6 +94,9 @@ body h2 {
 #website img {
     width: 150px;
 }
+#messenger img {
+  width: 150px;
+}
 /* Footer */
 .footer {
     bottom: 0;
