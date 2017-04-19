@@ -97,6 +97,9 @@ body h2 {
 #messenger img {
   width: 150px;
 }
+#classifier img {
+  width: 200px;
+}
 /* Footer */
 .footer {
     bottom: 0;
